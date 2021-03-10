@@ -1,5 +1,3 @@
-Raw_version文档
-===============
 Linux下C++轻量级Web服务器
 
 * 使用**线程池 + epoll(ET和LT均实现) + 模拟Proactor模式**的并发模型
